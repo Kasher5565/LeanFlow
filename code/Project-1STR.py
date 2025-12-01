@@ -10,9 +10,9 @@ class Registr:
         self.root.state('zoomed')
 
         self.colors = {
-            'background': '#F8FAFC',
-            'card_bg': '#FFFFFF',
-            'primary': '#3B82F6',
+            'background': '#EADEBD',
+            'card_bg': '#FFFFF0',
+            'primary': '#8B4513',
             'primary_hover': '#2563EB',
             'secondary': '#64748B',
             'text_dark': '#1E293B',
