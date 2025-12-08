@@ -44,7 +44,7 @@ def check_backend_ready():
 def run_frontend():
     """Запуск Tkinter фронтенда"""
     print("🎨 Запуск Tkinter интерфейса...")
-    frontend_process = subprocess.Popen([sys.executable, "Project-1STR.py"])
+    frontend_process = subprocess.Popen([sys.executable, "welcom_page.py"])
     return frontend_process
 
 def main():
